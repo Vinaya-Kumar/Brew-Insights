@@ -11,7 +11,7 @@ This project involves creating a comprehensive database for the fictional compan
 
 ## Installation and Usage
 ### Clone the Repository: 
-* `git clone https://github.com/JohanTokarskij/Database-Modelling-and-Power-BI-Dashboard-for-BeanStream`
+* `git clone https://github.com/Vinaya-Kumar/Database-Modelling-and-Power-BI-Dashboard-for-BeanStream`
 
 ### Read the Project journal:
 * Open the `Journal.pdf` file to read the detailed daily log documenting the development process.
